@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/action_search"
+        android:title="search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="ifRoom|collapseActionView"
+        android:hint="Enter Tags"
+        app:actionViewClass= "com.xteam.sample.utility.CustomSearchView" />
+
+    <item
+        android:id="@+id/Textview"
+        android:actionViewClass="android.widget.TextView"
+        android:title="In Stocks"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_checkbox"
+        android:actionViewClass="android.widget.CheckBox"
+        android:icon="@drawable/ic_action_checkbox"
+        android:checkable="true"
+        android:checked="false"
+        android:title="@string/action_check"
+        app:showAsAction="always"
+        />
+
+
+
+</menu>

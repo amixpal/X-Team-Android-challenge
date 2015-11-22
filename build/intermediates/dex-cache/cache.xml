@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Amit/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/Users/Amit/Desktop/XTeam/app/build/intermediates/pre-dexed/debug/okio-1.4.0-804677d2ed2cfdbe1a467995fceb862241e69fe9.jar" />
+    </item>
+    <item
+        jar="/Users/Amit/Desktop/XTeam/app/build/intermediates/exploded-aar/com.lsjwzh/materialloadingprogressbar/0.5.6-RELEASE/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b7760c9799d4842e39492efb0957ed62e4c7c57a">
+        <dex dex="/Users/Amit/Desktop/XTeam/app/build/intermediates/pre-dexed/debug/classes-bf8835aff80736d41cbd7a26ec34c44d9658cbb8.jar" />
+    </item>
+    <item
+        jar="/Users/Amit/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.0/da7ba0ee1d30edd955da276cdf01d3d7cb24aedc/dagger-2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="da7ba0ee1d30edd955da276cdf01d3d7cb24aedc">
+        <dex dex="/Users/Amit/Desktop/XTeam/app/build/intermediates/pre-dexed/debug/dagger-2.0-1cee866e93cd16f180abdde52b1e6f7107685482.jar" />
+    </item>
+    <item
+        jar="/Users/Amit/Desktop/XTeam/app/build/intermediates/exploded-aar/com.mikhaellopez/circularprogressbar/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a66d97cc99478e8080ac20a666c8333022032857">
+        <dex dex="/Users/Amit/Desktop/XTeam/app/build/intermediates/pre-dexed/debug/classes-39b304651d6f25a4d414069ad8b9c9b2db9384fd.jar" />
+    </item>
+    <item
+        jar="/Users/Amit/Desktop/XTeam/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/Amit/Desktop/XTeam/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-1951231c56eab9e06cf188cc28271b24ab61a664.jar" />
+    </item>
+    <item
+        jar="/Users/Amit/Desktop/XTeam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/Amit/Desktop/XTeam/app/build/intermediates/pre-dexed/debug/classes-e04a6877027507641d864c8c7cc9b6d0a5df30f2.jar" />
+    </item>
+    <item
+        jar="/Users/Amit/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/Amit/Desktop/XTeam/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-f586f8c624356586635e1f6a45bb8681d9f4fea3.jar" />
+    </item>
+    <item
+        jar="/Users/Amit/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/Amit/Desktop/XTeam/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-27080618e0193fbc6d864c15804c6c5ce21bf4b0.jar" />
+    </item>
+    <item
+        jar="/Users/Amit/Desktop/XTeam/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/Users/Amit/Desktop/XTeam/app/build/intermediates/pre-dexed/debug/classes-9fc18b80ffeb0c1f118e961371f204a7545bbd73.jar" />
+    </item>
+    <item
+        jar="/Users/Amit/Desktop/XTeam/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/Amit/Desktop/XTeam/app/build/intermediates/pre-dexed/debug/classes-e97fdb8aa47e5c8bab8da5ed08db066476dd65e3.jar" />
+    </item>
+    <item
+        jar="/Users/Amit/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.4/a607b0e12d2de769dc219e00b60a9b3d9e730d/rxjava-1.0.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00a607b0e12d2de769dc219e00b60a9b3d9e730d">
+        <dex dex="/Users/Amit/Desktop/XTeam/app/build/intermediates/pre-dexed/debug/rxjava-1.0.4-bc6a450eca3fcd4f83b32ac8fc776b9b1d9722ca.jar" />
+    </item>
+    <item
+        jar="/Users/Amit/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/Amit/Desktop/XTeam/app/build/intermediates/pre-dexed/debug/gson-2.3.1-121eae7e74690ff866ae513e964e6939090218a0.jar" />
+    </item>
+    <item
+        jar="/Users/Amit/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/Amit/Desktop/XTeam/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-e4eea874d6beb4c1f8d878f1f18051ecd5fc80c0.jar" />
+    </item>
+    <item
+        jar="/Users/Amit/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/Amit/Desktop/XTeam/app/build/intermediates/pre-dexed/debug/javax.inject-1-239c8351c26c867450d5c5a0b49dc6fcda1ae744.jar" />
+    </item>
+    <item
+        jar="/Users/Amit/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/0.24.0/42dab493b8f74b164e082f281480c9d493ff89da/rxandroid-0.24.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42dab493b8f74b164e082f281480c9d493ff89da">
+        <dex dex="/Users/Amit/Desktop/XTeam/app/build/intermediates/pre-dexed/debug/rxandroid-0.24.0-bbb70ee92789b43f72087111543ecb5417260b87.jar" />
+    </item>
+    <item
+        jar="/Users/Amit/Desktop/XTeam/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/Amit/Desktop/XTeam/app/build/intermediates/pre-dexed/debug/classes-38af5d9762f9018cad99b9ed9f8c637284a09f87.jar" />
+    </item>
+
+</items>

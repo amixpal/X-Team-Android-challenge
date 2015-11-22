@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#455A64</color>
+    <color name="primary_dark">#263238</color>
+    <color name="accent">#FFC400</color>
+    <color name="bg">#E0E0E0</color>
+    <color name="button">#ffb50a04</color>
+    <color name="menuItemTitle">#F4F4F4</color>
+    <color name="white">#fffdfdff</color>
+    <color name="themeDark">#ffb50a04</color>
+    <color name="grid_item_background">#ffcfd7db</color>
+</resources>

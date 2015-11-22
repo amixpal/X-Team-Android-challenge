@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_alarm">Stock item</string>
+    <string name="app_name">XTeam</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ware_house_detail">WareHouseDetailActivity</string>
+    <string name="action_check">action_check</string>
+    <string name="search_hint">Enter Tags</string>
+</resources>
